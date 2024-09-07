@@ -1,0 +1,4 @@
+sarina,3,14
+Jess,1,5
+Amy,1,1
+Tom,2,9
